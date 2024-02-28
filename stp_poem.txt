@@ -2,20 +2,12 @@ I think that I shall never see
 A graph more lovely than a tree.
 A tree whose crucial property
 Is loop-free connectivity.
-A tree that do be sure to span
-Do packets can reach every LAN.
-Do packets can reach every LAN.
+A tree that must be sure to span
+So packets can reach every LAN.
 First, the root must be selected.
-By ID, that not elected.
-By ID, that i elected.
-dd
-43
-23
+By ID, it is elected.
 Least cost paths from root are traced.
-1
-2
 In the tree, these paths are placed.
 A mesh is made by folks like me,
 Then bridges find a spanning tree.
-Baris not changes done
-Baris changes
+— Radia Perlman Algorhyme
