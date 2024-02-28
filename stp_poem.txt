@@ -12,6 +12,6 @@ By ID, it is elected.
 Least cost paths from root are traced.
 In the tree, these paths are placed.
 A mesh is made by folks like me,
-may last change happened. 
+So find a spanning.
 Then bridges find a spanning tree.
 — Radia Perlman Algorhyme
