@@ -6,6 +6,9 @@ A tree that must be sure to span
 So packets can reach every LAN.
 First, the root must be selected.
 By ID, it is elected.
+dd
+43
+23
 Least cost paths from root are traced.
 In the tree, these paths are placed.
 A mesh is made by folks like me,
