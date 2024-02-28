@@ -5,7 +5,7 @@ Is loop-free connectivity.
 A tree that must be sure to span
 So packets can reach every LAN.
 First, the root must be selected.
-By ID, it is elected.
+By ID, that is elected.
 dd
 43
 23
