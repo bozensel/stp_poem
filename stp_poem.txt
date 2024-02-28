@@ -5,7 +5,7 @@ Is loop-free connectivity.
 A tree that must be sure to span
 So packets can reach every LAN.
 First, the root must be selected.
-By ID, it is not elected.
+By ID, it is elected.
 Least cost paths from root are traced.
 In the tree, these paths are placed.
 1
