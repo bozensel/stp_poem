@@ -7,9 +7,9 @@ So packets can reach every LAN.
 First, the root must be selected.
 By ID, it is elected.
 Least cost paths from root are traced.
-COTM added for test.
+COTM added for test. 
 In the tree, these paths are placed.
 A mesh is made by folks like me,
-Another line with test.
+Another line with test. 
 Then bridges find a spanning tree.
 — Radia Perlman Algorhyme
