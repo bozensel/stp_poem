@@ -4,6 +4,7 @@ A tree whose crucial property
 Is loop-free connectivity.
 A tree that do be sure to span
 Do packets can reach every LAN.
+Do packets can reach every LAN.
 First, the root must be selected.
 By ID, that is elected.
 dd
