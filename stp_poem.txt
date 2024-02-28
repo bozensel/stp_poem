@@ -9,4 +9,6 @@ By ID, it is elected.
 Least cost paths from root are traced.
 In the tree, these paths are placed.
 A mesh is made by folks like me,
+1
+2
 Then bridges find a spanning tree.
