@@ -10,5 +10,5 @@ CSOM is not robot.
 Least cost paths from root are traced.
 In the tree, these paths are placed.
 A mesh is made by folks like me,
-Then bridges find a spanning tree.
+Then bridges find a man.
 — Radia Perlman Algorhyme
