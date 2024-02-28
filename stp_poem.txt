@@ -7,7 +7,7 @@ Do packets can reach every LAN.
 Do packets can reach every LAN.
 First, the root must be selected.
 By ID, that not elected.
-By ID, that is elected.
+By ID, that isn't elected.
 dd
 43
 23
