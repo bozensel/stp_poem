@@ -1,15 +1,19 @@
 I think that I shall never see
+hb making some changes.
 A graph more lovely than a tree.
 A tree whose crucial property
 Is loop-free connectivity.
+another change happened.
 A tree that must be sure to span
 So packets can reach every LAN.
 First, the root must be selected.
+one more changes.
 By ID, it is elected.
 Least cost paths from root are traced.
 COTM added for test. 
 In the tree, these paths are placed.
 A mesh is made by folks like me,
+So find a spanning.
 Another line with test. 
 Then bridges find a spanning tree.
 — Radia Perlman Algorhyme
